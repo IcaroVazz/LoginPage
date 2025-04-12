@@ -104,7 +104,7 @@ if(validNome && validUsuario && validSenha && validConfirmSenha){
     msgError.innerHTML = ''
     
     setTimeout(()=>{
-        window.location.href = '../Index.html'
+        window.location.href = '../index.html'
     }, 3000)
   
     
